@@ -47,7 +47,7 @@ p {
 		data(){
 			return{
 				list:[],
-				curPage:0,
+				curPage:1,
 				startPage:0,
 				endPage:0,
 				totalPage:0
